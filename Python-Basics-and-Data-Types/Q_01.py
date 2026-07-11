@@ -4,7 +4,8 @@ a = 2
 b = 3
 
 def swap_variables(a,b):
-    return b,a
+    a,b = b,a
+    return a,b
 
 a,b = swap_variables(2,3)
 
