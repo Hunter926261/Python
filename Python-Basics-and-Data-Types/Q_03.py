@@ -8,7 +8,6 @@ Output:
 54321
 """
 
-
 def reverse_number(num):
     sign = -1 if num < 0 else 1
     num = abs(num)
