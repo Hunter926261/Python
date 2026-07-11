@@ -8,7 +8,6 @@
 # •	Floor Division 
 # •	Power 
 
-
 def addition(a,b):
     """
     Arguments: numbers to add
