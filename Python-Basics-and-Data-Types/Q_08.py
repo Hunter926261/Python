@@ -1,6 +1,5 @@
 # Find the last digit of a number
 
-
 def last_digit(num: int) -> int:
     """
     Return the last digit of number

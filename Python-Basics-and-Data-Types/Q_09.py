@@ -1,5 +1,6 @@
 # Count the number of digits in an integer
 
+
 def count_digit(num: int) -> int:
     """
     Return count of digit in integer

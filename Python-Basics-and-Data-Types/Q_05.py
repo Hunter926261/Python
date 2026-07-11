@@ -2,6 +2,7 @@
 # Formula:
 # C = (F - 32) * 5/9
 
+
 def fahrenheit_to_celsius(fahrenheit):
     """
         Convert temperature from Fahrenheit to Celsius.
