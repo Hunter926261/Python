@@ -9,7 +9,7 @@ def Multiply_2(num: int) -> int:
         int: num * 2
 
     Formula for Multiplication using bitwise left shift:
-    x << n = 2**n
+    x << n = x * 2**n
     """
 
     if not isinstance(num,int):
