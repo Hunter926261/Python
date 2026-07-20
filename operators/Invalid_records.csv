@@ -1,0 +1,7 @@
+Age,Salary,Experience,Error
+-18,25000,1,Invalid Age
+40,-50000,12,Invalid Salary
+29,55000,-3,Invalid Experience
+0,45000,5,Invalid Age
+nine,60000,5,Invalid Data Type
+twenty,50000,six,Invalid Data Type
