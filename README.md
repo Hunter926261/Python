@@ -7,3 +7,4 @@ This repository contains my Python practice.
 - Python Basics & Data Types
 - Operators
 - Bitwise Operations
+- Conditional Statement
