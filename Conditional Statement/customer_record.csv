@@ -1,0 +1,9 @@
+Age,Salary,Gender,Department,Joining Date
+25,45000,Male,IT,2024-06-10    
+-5,45000,Male,IT,2024-06-10    
+25,-1000,Male,IT,2024-06-10      
+25,45000,,IT,2024-06-10       
+25,45000,Male,,2024-06-10       
+25,45000,Male,IT,abc  
+21,100000,Male,DE,2027-01-02           
+-21,100000,None,DE,2027-01-03

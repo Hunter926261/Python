@@ -1,0 +1,7 @@
+Age,Salary,Gender,Department,Joining Date,Error
+-5,45000,Male,IT,2024-06-10    ,Invalid Age
+25,-1000,Male,IT,2024-06-10      ,Invalid Salary
+25,45000,,IT,2024-06-10       ,Invalid Gender
+25,45000,Male,,2024-06-10       ,Invalid Department
+25,45000,Male,IT,abc  ,Invalid Joining Date
+-21,100000,None,DE,2027-01-03,"Invalid Age,Invalid Gender"
