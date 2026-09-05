@@ -1,4 +1,4 @@
-# Strong Number
+# Strong Number (also called a Krishnamurthy number or a factorion)
 
 # A Strong Number is a number where the sum of the factorials of its digits equals the original number.
 
